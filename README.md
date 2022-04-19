@@ -8,6 +8,8 @@ An object can be defined as a data field that has unique attributes and behavior
 are the things you think about first in designing
 - Data, Properties, Attributes
 - Operations(), Methods(), Functions().
+An instance of an excecutable copy of a class.
+Another name for instance is object.
 
 ### Class
 is a template, Prototype, blueprint for objects, and an object is instance of a class.
