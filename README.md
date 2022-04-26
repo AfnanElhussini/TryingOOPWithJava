@@ -14,8 +14,10 @@ Another name for instance is object.
 ### Class
 is a template, Prototype, blueprint for objects, and an object is instance of a class.
 
-### Acess Level Modifiers
+### Access Level Modifiers
 - Public (accessible from any class).
 - Private (accessible withn the class where defined)
+- Protected
+- Defult or Package-Private (when no access specifier is specified)
 
 ![Object-Oriented Programming](https://user-images.githubusercontent.com/63553675/157548762-ca053a4e-7302-4942-b110-5429d1a1ee1e.png)
