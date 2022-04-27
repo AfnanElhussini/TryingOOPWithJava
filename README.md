@@ -4,17 +4,17 @@ An object can be defined as a data field that has unique attributes and behavior
 
 ## **Java** is a class-based, Object-Oiented Programming language.
 
-### Objects
+## Objects
 are the things you think about first in designing
 - Data, Properties, Attributes
 - Operations(), Methods(), Functions().
 An instance of an excecutable copy of a class.
 Another name for instance is object.
 
-### Class
+## Class
 is a template, Prototype, blueprint for objects, and an object is instance of a class.
 
-### Access Level Modifiers
+## Access Level Modifiers
 - Public (accessible from any class).
 - Private (accessible withn the class where defined)
 - Protected
